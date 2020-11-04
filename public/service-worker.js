@@ -7,9 +7,7 @@ const FILES_TO_CACHE = [
     "/assets/images/icons/icon-192x192.png",
     "/assets/images/icons/icon-512x512.png",
     "/manifest.webmanifest",
-    "/api/transaction",
-    
-
+    "/api/transaction",  
 ];
 
 const CACHE_NAME = "static-cache-v1";
