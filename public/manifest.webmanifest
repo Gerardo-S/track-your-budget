@@ -16,6 +16,6 @@
   ],
   "theme_color": "#ffffff",
   "background_color": "#ffffff",
-  "start_url":"__dirname",
+  "start_url":"https://tracking-that-budget.herokuapp.com/",
   "display": "standalone"
 }
